@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/zurdo-jona/static/css/main.9de9ca94.css",
-    "main.js": "/zurdo-jona/static/js/main.db80ca93.js",
-    "static/js/453.2accbebf.chunk.js": "/zurdo-jona/static/js/453.2accbebf.chunk.js",
-    "index.html": "/zurdo-jona/index.html",
-    "main.9de9ca94.css.map": "/zurdo-jona/static/css/main.9de9ca94.css.map",
-    "main.db80ca93.js.map": "/zurdo-jona/static/js/main.db80ca93.js.map",
-    "453.2accbebf.chunk.js.map": "/zurdo-jona/static/js/453.2accbebf.chunk.js.map"
+    "main.css": "/JonathanUrbinaCayetano/integradorjona.git/static/css/main.9de9ca94.css",
+    "main.js": "/JonathanUrbinaCayetano/integradorjona.git/static/js/main.90788995.js",
+    "static/js/453.2accbebf.chunk.js": "/JonathanUrbinaCayetano/integradorjona.git/static/js/453.2accbebf.chunk.js",
+    "index.html": "/JonathanUrbinaCayetano/integradorjona.git/index.html",
+    "main.9de9ca94.css.map": "/JonathanUrbinaCayetano/integradorjona.git/static/css/main.9de9ca94.css.map",
+    "main.90788995.js.map": "/JonathanUrbinaCayetano/integradorjona.git/static/js/main.90788995.js.map",
+    "453.2accbebf.chunk.js.map": "/JonathanUrbinaCayetano/integradorjona.git/static/js/453.2accbebf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9de9ca94.css",
-    "static/js/main.db80ca93.js"
+    "static/js/main.90788995.js"
   ]
 }
